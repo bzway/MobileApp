@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\platforms\\android",
+    "\\plugins\\cordova-plugin-whitelist",
+    "\\www",
+    "\\www\\css",
+    "\\www\\js"
+  ],
+  "SelectedNode": "\\www\\js\\app.js",
+  "PreviewInSolutionExplorer": false
+}

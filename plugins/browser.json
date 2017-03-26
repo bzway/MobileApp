@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.abs51.smart"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.abs51.smart"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.abs51.smart"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.abs51.smart"
+        }
+    },
+    "dependent_plugins": {}
+}
